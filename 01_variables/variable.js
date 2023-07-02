@@ -13,3 +13,5 @@ console.log("variable1: ", variable1);
 // let some-var = 4;   // invalid
 let var_1 = 1;  // valid
 let $var_2 = 4; // valid
+
+// let break = 1;  // invalid. break is a keyword
