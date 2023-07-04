@@ -27,11 +27,11 @@ There are 8 basic data types in JavaScript. <br/>
 * It’s useful when we want to process values of different types differently or just want to do a quick check.
 * A call to typeof x returns a string with the type name.
 * examples:
-    * typeof undefined // "undefined"
-    * typeof 0 // "number"
-    * typeof 10n // "bigint"
-    * typeof true // "boolean"
-    * typeof "foo" // "string"
+    * `typeof undefined`    // "undefined"
+    * `typeof 0`            // "number"
+    * `typeof 10n`          // "bigint"
+    * `typeof true`         // "boolean"
+    * `typeof "foo"`        // "string"
 
 
 
