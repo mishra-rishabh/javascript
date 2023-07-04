@@ -10,7 +10,7 @@ There are 8 basic data types in JavaScript. <br/>
     * <b>String:</b> A sequence of characters. In JS, there are 3 types of quotes.
         * <b>Double quotes:</b> "Hello".
         * <b>Single quotes:</b> 'Hello'.
-        * <b>Backticks:</b> `Hello`. <br/>
+        * <b>Backticks:</b> \`Hello\`. <br/>
         Double and single quotes are “simple” quotes. There’s practically no difference between them in JavaScript. <br/>
         Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}.
     * <b>Number:</b> A numerical value. The number type represents both integer and floating point numbers.
